@@ -1,0 +1,10 @@
+diff a/tigers.yaml b/tigers.yaml	(rejected hunks)
+@@ -1,7 +1,7 @@
+ 
+ team: Tigers
+ 
+-manager: Kenneth
++manager: Ruth
+ 
+ members:
+   - Lindaa
