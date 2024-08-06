@@ -1,7 +1,7 @@
 
 team: Panthers
 
-manager: isA
+manager: is
 
 members:
   - Freddie
@@ -10,7 +10,4 @@ members:
   - William
   - David
   - sdf
-  - test!
-  - test2
-  - test2
-  - test
+  - Pororo
